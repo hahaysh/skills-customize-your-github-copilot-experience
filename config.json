@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "classroom-library-web-app",
+      "title": "Classroom Library Web App",
+      "description": "Build a team web interface that lists and adds books through a FastAPI REST API.",
+      "path": "assignments/classroom-library-web-app",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "HTML Starter",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "Stylesheet Starter",
+          "file": "styles.css",
+          "type": "css"
+        },
+        {
+          "name": "JavaScript Starter",
+          "file": "app.js",
+          "type": "js"
+        }
+      ]
     }
   ]
 }
