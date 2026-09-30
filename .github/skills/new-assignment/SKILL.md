@@ -3,6 +3,7 @@ name: new-assignment
 description: Create a new programming homework assignment for Mergington High School students. Use this skill whenever the user wants to create, add, scaffold, or generate a new assignment, exercise, or homework — even if they don't use the word "assignment" explicitly.
 ---
 
+
 # Create New Programming Assignment
 
 Assignments live in `assignments/<id>/`, and the website reads `config.json` to display them. Follow these steps to create both.
